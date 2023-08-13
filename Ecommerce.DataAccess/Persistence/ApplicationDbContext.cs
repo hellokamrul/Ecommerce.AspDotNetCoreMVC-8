@@ -1,7 +1,7 @@
 ﻿using Ecommerce.Models.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Ecommerce.Models.Persistence
+namespace Ecommerce.MVC.Persistence
 {
     public class ApplicationDbContext : DbContext 
     {

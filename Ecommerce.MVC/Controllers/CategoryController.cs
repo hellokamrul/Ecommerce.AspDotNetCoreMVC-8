@@ -1,4 +1,4 @@
-﻿using Ecommerce.MVC.Models;
+﻿using Ecommerce.Models.Models;
 using Ecommerce.MVC.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
